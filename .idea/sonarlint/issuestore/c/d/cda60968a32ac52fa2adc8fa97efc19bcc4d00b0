@@ -1,0 +1,23 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ðöý¿ÿÿÿÿÿ8‹ï½±¬.
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8»™™°¬.
+lsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¸ìû¬8è°Ó°¬.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(úÛÃœ8ÝöŸ°¬.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(”á®öüÿÿÿÿ8¦Á¸Ò¬.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(à¡‡’úÿÿÿÿ8 µµÒ¬.
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(í¨Âž8ÿÈÀÒ¬.
+Gsquid:S1068"+Remove this unused "CHARSET" private field.(ñÌý8ø‡‘´¬.
+Osquid:S1481"3Remove this unused "joinTableAlias" local variable.(Û™öÜ8¥¶à±¬.
+Ksquid:S00108")Either remove or fill this block of code.(¼°Ñ­ùÿÿÿÿ8ªòã±¬.
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Çµí‘8›Øº±¬.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(³úÓ¼8ï”°¬.
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(‰¡ýûÿÿÿÿ8ÚÄ…´¬.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ØÛõáÿÿÿÿÿ8 µµÒ¬.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(üàîÑøÿÿÿÿ8ï”°¬.

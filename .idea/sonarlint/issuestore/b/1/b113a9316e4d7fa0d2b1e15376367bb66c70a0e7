@@ -1,0 +1,37 @@
+
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ùÖÍÂüÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(øÒŸµ
+Fsquid:S1444"1Make this "public static testLogOpen" field final(¦èçå
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(³¥çàÿÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Æ”Â²
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(à²áŽûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÃÞÇÿÿÿÿÿ
+Csquid:S1905")Remove this unnecessary cast to "String".(Ï…Ð‹ûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(€ÃÂ×
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(–Î’©ùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(”ÃÒ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(áú¿Üýÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(·éÝ®
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(££ùíøÿÿÿÿ
+csquid:S4042"IUse "java.nio.Files#delete" here for better messages on error conditions.(„˜ÛÞýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"WMake testLogOpen a static final constant or non-public and provide accessors if needed.(¦èçå
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŸàÖ¦ýÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(õ–ôÄùÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+tsquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+T
+squid:S899";Do something with the "boolean" value returned by "delete".(„˜ÛÞýÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(­†Ìôüÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ž¤œ­ÿÿÿÿÿ

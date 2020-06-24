@@ -1,0 +1,15 @@
+
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(„¦ŽÅ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ôö‘Éþÿÿÿÿ
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†º¿Ÿúÿÿÿÿ8Ä¼†²¬.
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ßëµƒÿÿÿÿÿ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(¿Ê²¯
+Isquid:S1066"/Merge this if statement with the enclosing one.(Ï­¹¢ÿÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÍÁ¹‚
+jsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(«Š¼›üÿÿÿÿ
+O
+squid:S899";Do something with the "boolean" value returned by "delete".(Â¥éì
+^squid:S4042"IUse "java.nio.Files#delete" here for better messages on error conditions.(Â¥éì
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŸìÇó
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÄŠß¢
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(‰¡ýûÿÿÿÿ
